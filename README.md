@@ -11,10 +11,11 @@ A Snake Game coded in Arduino and uploaded to an Arduino Uno. A PCB was designed
 2) Press the joystick once, to start playing the game.
 3) The direction of the snake can be controlled using the joystick.
 4) The speed of the snake can be controlled using the potentiometer located to the left of the joystick.
-5) The option for walls on or off can be controlled by the switch below the potentiometer
-   a) If the walls are on, the user loses if the snake hits the edge of the display.
+5) The option for walls on or off can be controlled by the switch below the potentiometer. </br>
+   a) If the walls are on, the user loses if the snake hits the edge of the display. </br>
    b) If the walls are off, the snake can go out one edge, and come in through the other (world wraps around).
-3) The score is displayed above the joystick, and represents the number of candies eaten by the snake.
+6) The score is displayed above the joystick, and represents the number of candies eaten by the snake.
+7) If the game is left idle for more than 15 seconds, a Snake AI will begin playing the game.
 
 ## Goal of the Game
 Eat all of the candy without having the snake cross over itself. Once the snake grows to the size of the display (score = 128), the user wins.
