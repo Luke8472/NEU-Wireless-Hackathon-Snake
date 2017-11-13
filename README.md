@@ -22,3 +22,6 @@ Eat all of the candy without having the snake cross over itself. Once the snake 
 
 ## Prerequisites
 LedControl library: https://github.com/wayoda/LedControl
+
+## Board Design
+<img src="https://user-images.githubusercontent.com/6588879/32715439-5ac8356c-c820-11e7-9790-e499dbc9216d.jpg" width="800" height="544">
