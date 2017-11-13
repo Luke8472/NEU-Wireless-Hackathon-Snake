@@ -1,10 +1,10 @@
 # NEU-Wireless-Hackathon-Snake
-Northeastern University Wireless Club 11/11/16 Hackathon Snake Game for Arduino
+Northeastern University Wireless Club 11/11/16 Hackathon Snake Game.
 
 ## Description
 A Snake Game coded in Arduino and uploaded to an Arduino Uno. A PCB was designed as a shield for the Arduino Uno, and to house all electronic components.
 
-![ScreenShot](https://user-images.githubusercontent.com/6588879/32711837-0ff9953c-c80f-11e7-8d23-fd53238651b2.jpg)
+<img src="https://user-images.githubusercontent.com/6588879/32711837-0ff9953c-c80f-11e7-8d23-fd53238651b2.jpg" width="500" height="636">
 
 ## How it Works
 1) Turn the game on, using the power switch located in the upper left corner of the PCB.
@@ -19,5 +19,5 @@ A Snake Game coded in Arduino and uploaded to an Arduino Uno. A PCB was designed
 ## Goal of the Game
 Eat all of the candy without having the snake cross over itself. Once the snake grows to the size of the display (score = 128), the user wins.
 
-### Prerequisites
+## Prerequisites
 LedControl library: https://github.com/wayoda/LedControl
